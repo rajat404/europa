@@ -10,7 +10,7 @@ Notes for setting up JupyterHub on localhost/server with custom authentication, 
 - [x] Provide a separate Docker container to each user
 - [ ] Integrate Docker Swarm
 
-## Setup
+## Initial Setup
 
 To run JupyterHub locally, you can use Vagrant. Simply running `vagrant up --provision` shall setup the base box, and provision it. After which you can move to installing Docker.
 
