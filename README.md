@@ -1,5 +1,8 @@
 # Europa
 
+Notes for setting up JupyterHub on localhost/server with custom authentication, and using Dockerspawner to provide each user with a separate container.
+
+
 ## Setup
 
 To run JupyterHub locally, you can use Vagrant. Simply running `vagrant up --provision` shall setup the base box, and provision it. After which you can move to installing Docker.
