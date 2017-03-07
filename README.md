@@ -2,6 +2,13 @@
 
 Notes for setting up JupyterHub on localhost/server with custom authentication, and using Dockerspawner to provide each user with a separate container.
 
+## Things Covered
+
+- [x] Setup JupyterHub
+- [x] Add Custom Authentication
+- [x] Provide a pre-built test notebook (read-only) to each user
+- [x] Provide a separate Docker container to each user
+- [ ] Integrate Docker Swarm
 
 ## Setup
 
